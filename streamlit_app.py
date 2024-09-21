@@ -3,12 +3,12 @@ import pandas as pd
 
 st.title("Wheel analysis Boeing 737 MAX 9")
 st.write( 
-  '''Er zijn verschillende opties voor het bepalen van de voorraad van banden die nodig zijn voor het nieuwe jaar. Bij elke optie worden ook de voor- en nadelen besproken en op welke parameter de optie vooral is gebaseerd.")
-st.header("Optie 1: Trent van bandenwissels doortrekken''')
+  "Er zijn verschillende opties voor het bepalen van de voorraad van banden die nodig zijn voor het nieuwe jaar. Bij elke optie worden ook de voor- en nadelen besproken en op welke parameter de optie vooral is gebaseerd.")
+st.header("Optie 1: Trent van bandenwissels doortrekken")
 
 st.write(
- 'In de eerste optie is er gekeken naar het aantal bandenwissels van het afgelopen jaar en hier is een waarde uitgekomen. Deze waarde geeft aan hoeveel bandenwissels er plaatsvinden per week gemiddeld. 
-         Er is hier dus niet meegenomen dat er de waardes misschien niet hetzelfde zijn als je een analyse wil van een speccifieke methode.')
+ '''In de eerste optie is er gekeken naar het aantal bandenwissels van het afgelopen jaar en hier is een waarde uitgekomen. Deze waarde geeft aan hoeveel bandenwissels er plaatsvinden per week gemiddeld. 
+         Er is hier dus niet meegenomen dat er de waardes misschien niet hetzelfde zijn als je een analyse wil van een speccifieke methode.''')
 
 st.markdown("
             Voordelen:
