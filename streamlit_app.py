@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 
 st.title("Wheel analysis Boeing 737 MAX 9")
 st.write(
