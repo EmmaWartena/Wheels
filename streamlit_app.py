@@ -7,8 +7,8 @@ st.write(
 st.header("Optie 1: Trent van bandenwissels doortrekken")
 
 st.write(
-  "In de eerste optie is er gekeken naar het aantal bandenwissels van het afgelopen jaar en hier is een waarde uitgekomen. Deze waarde geeft aan hoeveel bandenwissels er plaatsvinden per week gemiddeld. 
-         Er is hier dus niet meegenomen dat er de waardes misschien niet hetzelfde zijn als je een analyse wil van een speccifieke methode.")
+ 'In de eerste optie is er gekeken naar het aantal bandenwissels van het afgelopen jaar en hier is een waarde uitgekomen. Deze waarde geeft aan hoeveel bandenwissels er plaatsvinden per week gemiddeld. 
+         Er is hier dus niet meegenomen dat er de waardes misschien niet hetzelfde zijn als je een analyse wil van een speccifieke methode.')
 
 st.markdown("
             Voordelen:
