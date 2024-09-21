@@ -18,4 +18,5 @@ st.markdown("
             - De analyse is niet betrouwbaar wanneer deze informatie moet bereken voor kleinere periodes, aangezien er geen factor wordt meegnoemen door invloeden van buitenaf. Denk hier bijvoorbeeld aan de 
             temperatuur op bestemming in de zomerperiodes, vluchten naar nieuwe bestemmingen, of andere factors die invloed kunnen hebben op de banden.
             - De analyse is ook minder betrouwbaar wanneer de flight planning er aankomend jaar anders uit zou zien als die van afgelopen jaar. Dit omdat de waarde een gemiddelde is, die is gebaseerd op het afgelopen jaar. 
-            Dit maakt de waarde minder betrouwbaar op een volgend jaar met andere omstandigheden. 
+            Dit maakt de waarde minder betrouwbaar op een volgend jaar met andere omstandigheden. "
+            )
