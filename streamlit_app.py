@@ -1,18 +1,4 @@
-$ pip install -r requirements.txt
-$ streamlit run streamlit_app.py
-pip install --upgrade pip
-import streamlit as st
-import plotly.express as px
-import request
-import geopandas as gdp
-import folium
-from folium.plugins import MarkerCluster
-import pltly.graph_objects as go
-from sklearn.preprocessing import PolynomialFeatures
-from sklearn.linear_model import LinearRegression
-from scipy import stats
 import pandas as pd
-import numoy as np
 
 st.title("Wheel analysis Boeing 737 MAX 9")
 st.write( 
