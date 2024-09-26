@@ -1,7 +1,5 @@
 import pandas as pd
 import streamlit as st
-python read_excel_from_github.py
-pip install pandas openpyxl
 
 st.title("Wheel analysis Boeing 737 MAX 9")
 st.write( 
@@ -26,9 +24,3 @@ st.markdown('''
             Dit maakt de waarde minder betrouwbaar op een volgend jaar met andere omstandigheden. '''
             )
 
-# Convert XLSX into JSON
-url = https://github.com/EmmaWartena/Wheels/blob/main/Wheels.xlsx
-
-df = pd.read_excel(url, wheels='openpyxl')
-
-df.head()
