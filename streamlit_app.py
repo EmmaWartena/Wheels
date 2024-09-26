@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import numoy as np
 
 st.title("Wheel analysis Boeing 737 MAX 9")
 st.write( 
