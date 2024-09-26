@@ -25,7 +25,6 @@ st.markdown('''
             )
 
 # Convert XLSX into JSON
-pip install pandas openpyxl
 url = https://github.com/EmmaWartena/Wheels/blob/main/Wheels.xlsx
 
 df = pd.read_excel(url, wheels='openpyxl')
