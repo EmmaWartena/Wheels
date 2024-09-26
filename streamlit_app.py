@@ -1,4 +1,3 @@
-pip install openpyxl!
 import pandas as pd
 import streamlit as st
 
@@ -26,5 +25,9 @@ st.markdown('''
             )
 
 # Convert XLSX into JSON
-df= pd.read_excel('Wheels.xlsx')
+pip install pandas openpyxl
+url = https://github.com/EmmaWartena/Wheels/blob/main/Wheels.xlsx
+
+df = pd.read_excel(url, wheels='openpyxl')
+
 df.head()
