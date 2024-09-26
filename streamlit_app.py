@@ -23,3 +23,7 @@ st.markdown('''
             - De analyse is ook minder betrouwbaar wanneer de flight planning er aankomend jaar anders uit zou zien als die van afgelopen jaar. Dit omdat de waarde een gemiddelde is, die is gebaseerd op het afgelopen jaar. 
             Dit maakt de waarde minder betrouwbaar op een volgend jaar met andere omstandigheden. '''
             )
+
+# Convert XLSX into JSON
+df= pd.read_excel('Wheels,xlsx')
+df.head()
