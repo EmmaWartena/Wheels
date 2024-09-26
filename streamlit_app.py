@@ -1,4 +1,5 @@
 import pandas as pd
+import streamlit as st
 
 st.title("Wheel analysis Boeing 737 MAX 9")
 st.write( 
