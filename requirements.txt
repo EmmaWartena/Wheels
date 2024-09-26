@@ -30,7 +30,6 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.8.1
 rpds-py==0.20.0
-[2024-09-26 10:17:39.223633] six==1.16.0
 smmap==5.0.1
 streamlit==1.38.0
 tenacity==8.5.0
