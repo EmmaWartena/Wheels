@@ -1,4 +1,5 @@
 $ pip install -r requirements.txt
+$ streamlit run streamlit_app.py
 pip install --upgrade pip
 import streamlit as st
 import plotly.express as px
