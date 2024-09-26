@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 python read_excel_from_github.py
+pip install pandas openpyxl
 
 st.title("Wheel analysis Boeing 737 MAX 9")
 st.write( 
